@@ -17,7 +17,7 @@ It automatically logs into Insta, searches for your prefered _Hashtag_, likes th
 ## How it works
 IGBot consists of two parts, **a console app** and the **web automation**. 
 When you run the program, it will prompt you for a _username_ and _password_ (your instagram login details).
-You'll then be prompted for your prefered hashtag and then press *ENTER* and let it do its thing
+You'll then be prompted for your prefered hashtag and then press *ENTER* and let it do its thing.
 
 
 ## Comments
